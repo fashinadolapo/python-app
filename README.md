@@ -17,7 +17,7 @@ Follow these steps to run the application on an AWS EKS cluster:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your/repo.git
+git clone https://github.com/fashinadolapo/python-app.git
 cd your-repo-directory
 ```
 
